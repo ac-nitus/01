@@ -1,7 +1,7 @@
 {
     "presets": {
         "Default": {
-            "api_key": "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",
+            "api_key": "",
             "model": "stepfun/step-3.5-flash:free",
             "model_vision": "google/gemma-3-27b-it:free",
             "model_image_gen": "",
@@ -70,4 +70,5 @@
         }
     },
     "active_preset": "Default"
+
 }
